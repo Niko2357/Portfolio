@@ -1,2 +1,2 @@
 # Portfolio
-* F1Replay: [Repozitory](https://github.com/Niko2357/F1Replay)
+* F1Replay: [Repository](https://github.com/Niko2357/F1Replay)
